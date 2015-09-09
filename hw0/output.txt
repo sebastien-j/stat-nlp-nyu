@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Sébastien
+   last: Jean
+email: sebjean13@gmail.com
+leaderboard: sebastien-j
